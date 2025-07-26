@@ -1,3 +1,3 @@
-# Wikipedia Summary API (Project P)
+# Wikipedia Summary API 
 
-A simple Express.js app that fetches the summary paragraph of a given topic from English Wikipedia using Cheerio and Axios.
+A simple Express.js app that fetches the summary paragraph of a given topic from  Wikipedia using Cheerio and Axios.
